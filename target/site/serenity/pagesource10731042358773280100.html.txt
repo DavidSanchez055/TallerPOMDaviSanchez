@@ -1,0 +1,299 @@
+<html><!-- comments:Application home page--><head>
+    
+    
+
+<!--comments: To link to a common cascading style sheets-->
+
+<meta name="robots" content="noindex, nofollow">
+
+<link rel="stylesheet" type="text/css" href="../scripts/commonstyle.css">
+
+<!-- Include the JavaScript files -->
+<script src="https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202405090101/pubads_impl_page_level_ads.js?cb=31083834"></script><script async="" defer="" src="https://ccpa.privacymanager.io/1/ccpa.bundle.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ccpa-wrapper.privacymanager.io/ccpa/75b86dcc-d9aa-4442-a859-bcb098cdb7d8/ccpa-liveramp.js"></script><script language="JavaScript" src="../scripts/validate_login.js"></script>
+<script language="JavaScript" src="../scripts/basic_functions.js"></script>
+<script language="JavaScript" src="JavaScript/test.js"></script>
+
+<link rel="stylesheet" type="text/css" href="css/style.css">
+
+<link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="css/main.css" rel="stylesheet">
+    <link href="css/custom.css" rel="stylesheet">
+    <link href="css/slider-cars.css" rel="stylesheet">
+    <link href="css/home-bar.css" rel="stylesheet"> 
+
+<style>
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+a:link {
+    COLOR: #000;
+    LETTER-SPACING: 0pt;
+    TEXT-DECORATION: none;
+    FONT-SIZE: 14px;
+    FONT-FAMILY: sans-serif, Verdana, Tahoma;
+}
+table{
+    margin-top:120px;
+}
+td{
+    padding:4px;
+}
+</style>
+
+<title> Guru99 Bank Home Page </title>
+
+<meta http-equiv="origin-trial" content="AlK2UR5SkAlj8jjdEc9p3F3xuFYlF6LYjAML3EOqw1g26eCwWPjdmecULvBH5MVPoqKYrOfPhYVL71xAXI1IBQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="Amm8/NmvvQfhwCib6I7ZsmUxiSCfOxWxHayJwyU1r3gRIItzr7bNQid6O8ZYaE1GSQTa69WwhPC9flq/oYkRBwsAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="A/ERL66fN363FkXxgDc6F1+ucRUkAhjEca9W3la6xaLnD2Y1lABsqmdaJmPNaUKPKVBRpyMKEhXYl7rSvrQw+AkAAACNeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiRmxlZGdlQmlkZGluZ0FuZEF1Y3Rpb25TZXJ2ZXIiLCJleHBpcnkiOjE3MTkzNTk5OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A6OdGH3fVf4eKRDbXb4thXA4InNqDJDRhZ8U533U/roYjp4Yau0T3YSuc63vmAs/8ga1cD0E3A7LEq6AXk1uXgsAAACTeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiRmxlZGdlQmlkZGluZ0FuZEF1Y3Rpb25TZXJ2ZXIiLCJleHBpcnkiOjE3MTkzNTk5OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><script src="https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202405090101/pubads_impl.js?cb=31083834" async=""></script><script esp-signal="true" src="https://oa.openxcdn.net/esp.js"></script><script esp-signal="true" src="https://static.criteo.net/js/ld/publishertag.ids.js"></script><script esp-signal="true" src="https://cdn.jsdelivr.net/gh/prebid/shared-id/pubcid.js/docs/pubcid.min.js"></script><script esp-signal="true" src="https://cdn.id5-sync.com/api/1.0/esp.js"></script><script esp-signal="true" src="https://invstatic101.creativecdn.com/encrypted-signals/encrypted-tag-g.js"></script><script esp-signal="true" src="https://tags.crwdcntrl.net/lt/c/16589/sync.min.js"></script><script esp-signal="true" src="https://cdn.prod.uidapi.com/uid2SecureSignal.js"></script></head>
+
+
+<!--comments: home page body-->
+<body aria-hidden="false">
+    
+    
+<meta name="robots" content="noindex, nofollow">
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-1248015-24"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-1248015-24');
+</script>  
+
+ <div class="container-fluid">
+        <!-- Top logo -->
+        <div class="row topper">
+            <div class="col-md-2 header-section">
+                <div class="logo">
+                    <a href="https://www.guru99.com/" title="Home" rel="home" style="border: medium none;"> <img src="/logo.png" alt="Guru99 Demo Sites" role="presentation"> </a><br>
+                    <div id="site-name" class="site-name" style="text-align: center;"><a href="https://www.guru99.com/" title="Home" rel="home" style="font-size:32px;">Demo Site</a></div>
+                    
+                   
+                </div>
+                <div id="name-and-slogan" style="padding-top: 0px;padding-left: 0px;">
+                    <div id="site-name" class="site-name">
+                        
+                        
+                        
+                    </div>
+                    
+                </div>
+            </div>
+            <div class="top-banner col-md-8">
+               
+ <table style="margin-top:0px;border:1px solid black;" width="60%">
+                            <tbody><tr>
+                                <td width="20%" style="text-align:center;"><a href="https://www.guru99.com/software-testing.html"><img src="https://demo.guru99.com/images/testing-logo-1.png" style="padding-bottom: 5px;"></a><br>
+                                <a href="https://www.guru99.com/software-testing.html" style="font-size: 18px;">Testing</a></td>
+                                
+                                <td width="20%" style="border:1px solid black;text-align:center;"><a href="https://www.guru99.com/selenium-tutorial.html"><img src="https://demo.guru99.com/images/selenium-logo.jpg" style="padding-bottom: 5px;"></a><br>
+                                <a href="https://www.guru99.com/selenium-tutorial.html" style="font-size: 18px;">Selenium</a></td>
+                                
+                                <td width="20%" style="border:1px solid black;text-align:center;"><a href="https://www.guru99.com/live-projects.html"><img src="https://demo.guru99.com/images/live-project-logo.png" style="padding-bottom: 5px;"></a><br>
+                                <a href="https://www.guru99.com/live-projects.html" style="font-size: 18px;">Live Project</a></td>
+                                
+                                <td width="20%" style="text-align:center;"><a href="https://www.guru99.com/java-tutorial.html"><img src="https://demo.guru99.com/images/java-logo.png" style="padding-bottom: 5px;"></a><br>
+                                <a href="https://www.guru99.com/java-tutorial.html" style="font-size: 18px;">Java</a></td>
+                            </tr>
+                        </tbody></table>
+
+ 
+
+             
+
+            </div>
+        </div>
+        <!-- End Top -->
+        
+   
+<div class="row">
+            <nav class="navbar navbar-default" role="navigation">
+                <div class="container" style="padding-right: 0px;padding-left: 0px;">
+                    <!-- Brand and toggle -->
+                   
+
+                    <!-- Nav links for toggling -->
+                    <div class="collapse navbar-collapse" id="navbar-brand-centered">
+                        <ul class="nav navbar-nav">
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Selenium
+					  <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="../../test/flash-testing.html">Flash Movie Demo</a></li>
+                                    <li><a href="../../test/radio.html">Radio &amp; Checkbox Demo</a></li> 
+                                    <li><a href="../../test/table.html">Table Demo</a></li> 
+                                    <li><a href="../../test/link.html">Accessing Link</a></li>
+                                    <li><a href="../../test/ajax.html">Ajax Demo</a></li>
+                                    <li><a href="../../test/block.html">Inside &amp; Outside Block Level Tag</a></li>
+                                    <li><a href="../../test/delete_customer.php">Delete Customer Form</a></li>
+                                    <li><a href="../../test/yahoo.html">Yahoo</a></li>
+                                    <li><a href="../../test/tooltip.html">Tooltip</a></li>
+                                    <li><a href="../../test/upload/">File Upload</a></li>
+                                    <li><a href="../../test/login.html">Login</a></li>
+                                    <li><a href="../../test/social-icon.html">Social Icon</a></li>
+                                    <li><a href="../../test/autoit.html">Selenium Auto IT</a></li>
+                                    <li><a href="../../test/facebook.html">Selenium IDE Test</a></li>
+                                    <li><a href="../../test/guru99home/">Guru99 Demo Page</a></li>
+                                    <li><a href="../../test/guru99home/scrolling.html">Scrollbar Demo</a></li>
+                                    <li><a href="../../test/image_upload/">File Upload using Sikuli Demo</a></li>
+                                    <li><a href="../../test/cookie/selenium_aut.php">Cookie Handling Demo</a></li>
+                                    <li><a href="../../test/drag_drop.html">Drag and Drop Action</a></li>
+                                    <li><a href="../../test/">Selenium DatePicker Demo</a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                                                                                                                          
+                             </li>
+                             <li class="dropdown">
+                                 <a href="http://demo.guru99.com/insurance/v1/index.php">Insurance Project</a>                             </li>
+                             <li class="dropdown">
+                               <a href="http://demo.guru99.com/Agile_Project/Agi_V1/">Agile Project</a>
+                                
+                            </li>
+                             <li class="dropdown">
+                                                                                                  
+                                    
+                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Bank Project<b class="caret"></b></a><ul class="dropdown-menu"><li><a href="http://demo.guru99.com/V1/index.php">Bank Project V1</a></li><li><a href="http://demo.guru99.com/V2/index.php">Bank Project V2</a></li><li><a href="http://demo.guru99.com/v3/index.php">Bank Project V3</a></li></ul>        
+                            </li>
+                            <li class="dropdown"><a href="http://demo.guru99.com/Security/SEC_V1/index.php">Security Project</a></li>                            
+                            <li class="dropdown"> 
+                                                       </li>
+                           <li class="dropdown"><a href="http://demo.guru99.com/telecom/index.html">Telecom Project</a></li>
+                           
+                           <li class="dropdown"><a href="http://demo.guru99.com/payment-gateway/index.php">Payment Gateway Project</a></li>
+                           
+                           <li class="dropdown"><a href="http://demo.guru99.com/test/newtours/">New Tours</a></li>
+                           
+                           <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="font-size: 14px;">SEO
+					            <b class="caret"></b></a>
+                                <ul class="dropdown-menu" style="font-size: 15px;">
+                                   <li><a href="http://demo.guru99.com/seo/page-1.html">Page-1</a></li>
+                                   <li><a href="http://demo.guru99.com/seo/page-2.html">Page-2</a></li>
+                                   <li><a href="http://demo.guru99.com/seo/page-3.html">Page-3</a></li>
+                                   <li><a href="http://demo.guru99.com/seo/page-4.html">Page-4</a></li>
+                                   <li><a href="http://demo.guru99.com/seo/page-5.html">Page-5</a></li>
+                                   <li><a href="http://demo.guru99.com/seo/page-6.html">Page-6</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                       
+                        
+                    </div>
+                    <!-- /.navbar-collapse -->
+                </div>
+                <!-- /.container-fluid -->
+            </nav>
+        </div>
+     </div>
+     
+    <div><h2 class="barone" style="font-size:27px;font-weight:700;padding: 10px;">Guru99 Bank</h2></div>
+
+<table class="layout" border="0" width="90%" align="center">
+<tbody><tr>
+<td align="center"><img src="../images/1.gif">
+<img src="../images/3.gif">
+<img src="../images/2.gif"></td>
+</tr>
+</tbody></table>
+
+
+<div class="heading3" align="center">Welcome To The Online Banking Page of Guru99 Bank</div>
+
+<br><br><br>
+
+<br><br><br><br>
+
+<br><br><br><br><br><br>
+
+<form name="frmLogin" method="POST" action="index.php">
+
+    <ul>
+	</ul><table border="0" width="50%" align="center" style="margin-top: 320px">
+
+
+<!-- Display User ID label and its text box-->
+<tbody><tr>
+	<td align="right">UserID</td>
+	<td><input type="text" name="uid" maxlength="10" onkeyup="validateuserid();" onblur="validateuserid();"><label id="message23" style="visibility: hidden;"></label></td>
+</tr>
+
+<!-- Display Password and its text box-->
+<tr>
+	<td align="right">Password</td>
+	<td><input type="password" name="password" onkeyup="validatepassword();" onblur="validatepassword();"><label id="message18" style="visibility: hidden;"></label></td>
+</tr>
+
+<tr>
+<td></td>
+<td><input type="submit" name="btnLogin" value="LOGIN">
+<input type="reset" name="btnReset" value="RESET"></td>
+</tr>
+
+</tbody></table>
+</form><br><br><br><br><br><br><br>
+<h4 class="barone" style="padding:5px;"><span style="font-size:18px;font-weight: 700;">Steps To Generate Access</span></h4>
+    <div>
+        <ol style="font-size:18px;">
+            <li>Visit - <a href="http://demo.guru99.com/">here</a></li>
+            <li>Enter your email id</li>
+            <li>Login credentials is allocated to you and mailed at your id</li>
+            <li>Login credentials are only valid for 20 days! So Hurry Up and quickly complete your tasks</li>
+        </ol>
+    </div>
+
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>var gptadslots=[];
+var googletag=googletag||{cmd:[]};
+window.googletag = window.googletag || {cmd: []};
+var interstitialSlot, staticSlot, staticSlot1;
+</script>
+
+<script type="text/javascript" src="//fdyn.pubwise.io/script/b7da2361-4ada-4374-9097-af748311b5fe/v3/dyn/pre_pws.js"></script>
+<script type="text/javascript" src="//fdyn.pubwise.io/script/b7da2361-4ada-4374-9097-af748311b5fe/v3/dyn/pws.js" async=""></script>
+
+<script>
+googletag.cmd.push(function(){
+googletag.pubads().collapseEmptyDivs(true);
+googletag.pubads().disableInitialLoad();
+
+
+gptadslots['interstitial'] = googletag.defineOutOfPageSlot('/24132379/INTERSTITIAL_DemoGuru99', googletag.enums.OutOfPageFormat.INTERSTITIAL).addService(googletag.pubads());
+
+
+googletag.enableServices();
+googletag.pubads().setTargeting('TestMode', ['True']);
+});</script>
+
+<div id="interstitial">
+ <script type="text/javascript"> 
+ if (typeof(pubwise) != 'undefined' && pubwise.enabled === true) {
+ pubwise.que.push(function() {              
+ pubwise.renderAd('interstitial');
+      });
+    }else{
+ googletag.cmd.push(function () {                    
+ googletag.display('interstitial');
+ googletag.pubads().refresh([gptadslots['interstitial']]);          
+      });
+    }
+ </script>
+</div>
+
+<div id="static-ad-1"></div>
+<script>
+        googletag.cmd.push(function() {
+        googletag.display(staticSlot);
+        });
+</script>
+<script src="JavaScript/jquery.js"></script>
+    <script src="JavaScript/bootstrap.min.js"></script>
+    <script src="JavaScript/treemenu.js"></script>
+    <script src="JavaScript/slider-cars.js"></script>
+    <script src="JavaScript/home-bar.js"></script><iframe src="https://a33287207c80ca04e5fbc513bbe5d04a.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html" style="visibility: hidden; display: none;"></iframe>   
+
+<iframe name="__ccpaLocator" style="display: none;"></iframe><iframe name="__uspapiLocator" style="display: none;"></iframe><iframe src="https://gum.criteo.com/syncframe?origin=publishertagids&amp;topUrl=demo.guru99.com#{&quot;lwid&quot;:{&quot;origin&quot;:0},&quot;bundle&quot;:{&quot;origin&quot;:0},&quot;optout&quot;:{&quot;value&quot;:false,&quot;origin&quot;:0},&quot;tld&quot;:&quot;guru99.com&quot;,&quot;topUrl&quot;:&quot;demo.guru99.com&quot;,&quot;version&quot;:153,&quot;cw&quot;:true,&quot;lsw&quot;:true,&quot;origin&quot;:&quot;publishertagids&quot;,&quot;requestId&quot;:&quot;0.6523901182146921&quot;}" width="0" height="0" frameborder="0" sandbox="allow-scripts allow-same-origin" title="Criteo GUM iframe" style="border-width: 0px; margin: 0px; display: none;"></iframe><iframe src="https://www.google.com/recaptcha/api2/aframe" width="0" height="0" style="display: none;"></iframe><div><iframe src="https://google-bidout-d.openx.net/w/1.0/pd?plm=5" width="0" height="0" style="display:none;"></iframe></div></body><ins id="gpt_unit_/24132379/INTERSTITIAL_DemoGuru99_0" data-google-query-id="CJnx9MDSooYDFbGHgwgdT9gDDQ" aria-hidden="true" data-vignette-loaded="true" style="display: none !important; width: 100vw !important; height: 100vh !important; inset: 0px auto auto 0px !important; clear: none !important; float: none !important; margin: 0px !important; max-height: none !important; max-width: none !important; opacity: 1 !important; overflow: visible !important; padding: 0px !important; position: fixed !important; vertical-align: baseline !important; visibility: visible !important; z-index: 2147483647 !important; background: transparent !important;"><div id="google_ads_iframe_/24132379/INTERSTITIAL_DemoGuru99_0__container__" style="border: 0pt none !important; display: inline-block !important; width: 100vw !important; height: 100vh !important; inset: auto !important; clear: none !important; float: none !important; margin: 0px !important; max-height: none !important; max-width: none !important; opacity: 1 !important; overflow: visible !important; padding: 0px !important; position: static !important; vertical-align: baseline !important; visibility: visible !important; z-index: auto !important;"><iframe frameborder="0" src="https://a33287207c80ca04e5fbc513bbe5d04a.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html" id="google_ads_iframe_/24132379/INTERSTITIAL_DemoGuru99_0" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="" height="" data-is-safeframe="true" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="attribution-reporting;autoplay" aria-label="Advertisement" tabindex="0" data-google-container-id="1" data-load-complete="true" style="border: 0px !important; vertical-align: bottom !important; width: 100vw !important; height: 100vh !important; inset: 0px auto auto 0px !important; position: absolute !important; clear: none !important; display: inline !important; float: none !important; margin: 0px !important; max-height: none !important; max-width: none !important; opacity: 1 !important; overflow: visible !important; padding: 0px !important; visibility: visible !important; z-index: auto !important;"></iframe></div></ins></html>
